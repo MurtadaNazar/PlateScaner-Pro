@@ -2,4 +2,4 @@ Flask==2.2.5
 numpy==1.21.6
 Pillow==9.5.0
 transformers==4.30.2
-ultralytics==8.0.157
+ultralytics==8.0.151
