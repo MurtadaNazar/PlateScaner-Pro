@@ -36,7 +36,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+What things do you need to install the software and how to install them?
 
 #### 1-clone the repository
 
@@ -71,7 +71,7 @@ source yolov8-nlpr/bin/activate
 pip install -r requirements.txt
 ```
 
-#### 2- run the web app
+#### 2- Run the web app
 
 ```shell
 flask run --debug
@@ -80,7 +80,7 @@ flask run
 ```
 
 > ```bash
-> ⚠️ Note: To get the best result, please upload a vertical photo, without tilt
+> ⚠️ Note: To get the best result, please upload a vertical shot, without a tilt
 > or angle, and in good lighting conditions
 > ```
 
@@ -92,8 +92,8 @@ flask run
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@MurtadaNazar](https://github.com/MurtadaNazar) - Idea & Initial work
+- [@MurtadaNazar](https://github.com/MurtadaNazar) Training the model & create the web app
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- [Aymen Saad](https://scholar.google.com/citations?user=PP2qKBgAAAAJ) - supervising this project
+- [Aymen Saad](https://scholar.google.com/citations?user=PP2qKBgAAAAJ) - supervising this project And the one who came up with the idea
